@@ -9,13 +9,14 @@ This habit tracking dashboard is custom-built for **Prajwal**, who operates an i
 - **Alerts and Notifications**: Reminders to stay on track with daily and weekly goals.
 - **User-Friendly Interface**: A clean and intuitive interface for easy habit management.
 
-##Usage
+## Usage
 Log in using your credentials.
 Add new habits and set specific goals.
 Track your progress with daily logs.
 Visualize data through the analytics dashboard.
-##Future Enhancements
+## Future Enhancements
 Integration with mobile apps for easier access.
 Adding voice commands for habit logging.
 Personalized habit recommendations based on past performance.
+
 
